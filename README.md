@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate Fullstack developer with a focus 
 
 Here's a glimpse of some of my technical skills and technologies I'm proficient in:
 
-- **Programming Languages:** JavaScript, Python
-- **Frontend:** HTML, CSS, React.js, Vue.js
+- **Programming Languages:** JavaScript
+- **Frontend:** HTML, CSS, React.js
 - **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Databases:** MySQL
 - **Tools and Services:** Git
 
 ## Featured Projects
