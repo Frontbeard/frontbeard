@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Lucas Benitez
+#### I am Fullstack Developer
+![I am Fullstack Developer](https://i.imgur.com/oYi1sx7.png)
 
-<!--
-**Frontbeard/frontbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Lucas Benitez (Frontbeard), a passionate Fullstack developer with experience in crafting web and mobile applications. My primary focus is on marrying attractive design with robust functionality to deliver exceptional user experiences.
 
-Here are some ideas to get you started:
+I possess skills in both client-side (frontend) and server-side (backend) development, enabling me to work across all stages of the software development lifecycle. Furthermore, I thrive on staying abreast of the latest technologies and trends in the web development realm. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm excited to collaborate on innovative projects and take them to the next level!
+
+Skills: JavaScript | HTML | CSS | React | Redux | Git | Node | Express | SQL | Sequelize
+
+- 🔭 I’m currently working on https://leorodriguez.com.ar/ 
+- 📫 How to reach me: lufbenitez@gmail.com 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Frontbeard)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/frontbeard//)  
+
