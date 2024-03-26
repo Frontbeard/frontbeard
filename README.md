@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/Frontbeard">Lucas Benitez</a> 👋</h1>
+<h1 align="center">Hi, i'm <a href="https://github.com/Frontbeard">Frontbeard</a> 👋</h1>
 </div>
-![I am Fullstack Developer](https://i.imgur.com/qrH0XoA.png)
+<img src="https://i.imgur.com/qrH0XoA.png">
 
 Hello there! I'm Lucas Benitez (Frontbeard), a passionate Fullstack developer with experience in crafting web and mobile applications. My primary focus is on marrying attractive design with robust functionality to deliver exceptional user experiences.
 
