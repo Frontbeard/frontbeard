@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lucas Benitez
 #### I am Fullstack Developer
-![I am Fullstack Developer](https://i.imgur.com/oYi1sx7.png)
+![I am Fullstack Developer](https://i.imgur.com/qrH0XoA.png)
 
 Hello there! I'm Lucas Benitez (Frontbeard), a passionate Fullstack developer with experience in crafting web and mobile applications. My primary focus is on marrying attractive design with robust functionality to deliver exceptional user experiences.
 
