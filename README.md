@@ -3,16 +3,13 @@
 </div>
 <img src="https://i.imgur.com/qrH0XoA.png">
 
-Hello there! I'm Lucas Benitez (Frontbeard), a passionate Fullstack developer with experience in crafting web and mobile applications. My primary focus is on marrying attractive design with robust functionality to deliver exceptional user experiences.
+FullStack Developer with training at the SoyHenry bootcamp that gave me a solid foundation in web development. I have had experience working in a team during the final project of the bootcamp, where I focused on Frontend development. My main focus has been on Frontend development, where I find the perfect combination between my passion for design and technology to create meaningful digital experiences for users.
 
-I possess skills in both client-side (frontend) and server-side (backend) development, enabling me to work across all stages of the software development lifecycle. Furthermore, I thrive on staying abreast of the latest technologies and trends in the web development realm. 
+My projects include JavaScript, React and Redux for the Frontend, and Node.js and Express for the Backend. In addition, I have experience working with PostgreSQL databases and using Sequelize as ORM. In addition to knowledge in agile methodologies, GIT, data structure, algorithms and CSS frameworks (Bootstrap).
 
-I'm excited to collaborate on innovative projects and take them to the next level!
+As for my soft skills, I have a positive attitude, problem analysis skills, adaptability, critical ability, effective communication, cooperation, curiosity, dedication, empathy, leadership, public speaking skills, innovation and time management.
 
-Skills: JavaScript | HTML | CSS | React | Redux | Git | Node | Express | SQL | Sequelize
-
-- 🔭 I’m currently working on https://leorodriguez.com.ar/ 
-- 📫 How to reach me: lufbenitez@gmail.com 
+My English level is B1 intermediate.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Frontbeard)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/frontbeard//)  
 
