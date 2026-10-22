@@ -4,9 +4,11 @@
 
 **Frontend Developer semi senior · React · Next.js · TypeScript · Supabase**
 
-Buenos Aires, Argentina 🇦🇷 · Fundador de [Hako Studio](https://www.frontbeard.xyz)
+Buenos Aires, Argentina 🇦🇷 · Fundador de [Hako Studio](https://hakostudio.com.ar)
 
 [Portfolio](https://www.frontbeard.xyz) · [LinkedIn](https://www.linkedin.com/in/frontbeard/) · [Email](mailto:lufbenitez@gmail.com)
+
+[hakostudio.com.ar](https://hakostudio.com.ar) · [LinkedIn de Hako Studio](https://www.linkedin.com/company/hako-studio/)
 
 </div>
 
@@ -14,7 +16,7 @@ Buenos Aires, Argentina 🇦🇷 · Fundador de [Hako Studio](https://www.frontb
 
 Construyo productos web completos, de la maqueta en Figma al deploy en producción. Me importan la UI prolija, la performance y que el código lo pueda retomar otra persona.
 
-Trabajo como WordPress Developer en una agencia de Chile, donde lidero un equipo chico, y desde **Hako Studio** desarrollo productos propios y para clientes.
+Trabajo como WordPress Developer en una agencia de Chile, donde lidero un equipo chico, y desde **[Hako Studio](https://hakostudio.com.ar)** desarrollo productos propios y para clientes.
 
 ## 🚀 Proyectos en producción
 
