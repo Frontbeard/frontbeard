@@ -4,11 +4,10 @@
 
 **Frontend Developer semi senior · React · Next.js · TypeScript · Supabase**
 
-Buenos Aires, Argentina 🇦🇷 · Fundador de [Hako Studio](https://hakostudio.com.ar)
+Buenos Aires, Argentina 🇦🇷 · Abierto a posiciones full time
 
 [Portfolio](https://www.frontbeard.xyz) · [LinkedIn](https://www.linkedin.com/in/frontbeard/) · [Email](mailto:lufbenitez@gmail.com)
 
-[hakostudio.com.ar](https://hakostudio.com.ar) · [LinkedIn de Hako Studio](https://www.linkedin.com/company/hako-studio/)
 
 </div>
 
@@ -16,14 +15,14 @@ Buenos Aires, Argentina 🇦🇷 · Fundador de [Hako Studio](https://hakostudio
 
 Construyo productos web completos, de la maqueta en Figma al deploy en producción. Me importan la UI prolija, la performance y que el código lo pueda retomar otra persona.
 
-Trabajo como WordPress Developer en una agencia de Chile, donde lidero un equipo chico, y desde **[Hako Studio](https://hakostudio.com.ar)** desarrollo productos propios y para clientes.
+Trabajé casi un año como desarrollador en una agencia de Chile, donde lideré un equipo chico en un dashboard de gestión interna y mantuve sitios WordPress en producción. Hoy desarrollo proyectos freelance y productos propios, y busco una posición full time como Frontend o Full Stack.
 
 ## 🚀 Proyectos en producción
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
 | [**Renó**](https://renohockey.com.ar) | SaaS para entrenadores y clubes de hockey, con suscripciones pagas | Next.js · TypeScript · Supabase · Mercado Pago · Playwright |
-| [**Fan Wheels**](https://fanwheels.com.ar) | Catálogo de más de 700 productos con pedidos por WhatsApp y panel de gestión (cliente de Hako Studio) | Next.js · Supabase · GSAP |
+| [**Fan Wheels**](https://fanwheels.com.ar) | Catálogo de más de 700 productos con pedidos por WhatsApp y panel de gestión (proyecto freelance para un cliente) | Next.js · Supabase · GSAP |
 | [**Portfolio**](https://www.frontbeard.xyz) | Mi sitio personal | Next.js · Tailwind CSS |
 
 > Los repos de estos proyectos son privados. Si querés ver código, escribime y te muestro.
